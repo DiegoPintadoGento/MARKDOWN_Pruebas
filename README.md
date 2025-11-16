@@ -25,7 +25,7 @@ Cita:
 > Markdown es simple y poderoso.
 
 Codigo de bloque:
- git status
+` status`
 ```
 codigo de linea
 ```
