@@ -25,8 +25,10 @@ Cita:
 > Markdown es simple y poderoso.
 
 Codigo de bloque:
-git status
-´codigo de linea´
+ git status
+```
+codigo de linea
+```
 
 - [] Leer la documentación
 - [] Practicar Markdown
