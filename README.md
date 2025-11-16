@@ -30,7 +30,7 @@ Codigo de bloque:
 codigo de linea
 ```
 
-- [] Leer la documentación
-- [] Practicar Markdown
-- [] Crear un archivo README
+- [ ] Leer la documentación
+- [ ] Practicar Markdown
+- [ ] Crear un archivo README
 ---
